@@ -1,6 +1,6 @@
 Light_PasswordProtector
 ===========
-2019-08-07 -> 2021-03-15
+2019-08-07 -> 2021-05-10
 
 
 
@@ -67,6 +67,10 @@ password_protector:
 History Log
 =============
 
+- 1.0.6 -- 2021-05-10
+
+    - fake commit to add back accidentally removed assets content
+  
 - 1.0.5 -- 2021-03-15
 
     - update planet to adapt Ling.Light:0.70.0
